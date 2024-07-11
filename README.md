@@ -1,1 +1,3 @@
 # permutations
+
+![plot](./Permutation.png)
