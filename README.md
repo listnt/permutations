@@ -1,3 +1,3 @@
 # permutations
 
-![plot](./Permutation.png)
+![plot](./permutation.gif)
